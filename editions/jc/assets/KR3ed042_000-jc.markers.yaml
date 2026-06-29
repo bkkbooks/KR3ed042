@@ -1,0 +1,14 @@
+canonical_identifier: bkk:krp/KR3ed042/jc/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 4, content: '', id: KR3ed042_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3ed042_jc_000-d2p2}}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR3ed042_jc_000-d2.p2s1}
+  - {type: xml-element, offset: 345, content: '', id: KR3ed042_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3ed042_jc_000-d2p2}}
+  - {type: xml-element, offset: 345, content: '', id: KR3ed042_jc_000-d2p4, name: p, role: open, attrs: {'xml:id': KR3ed042_jc_000-d2p4}}
+  - {type: 'tls:seg', offset: 345, content: '', id: KR3ed042_jc_000-d2.p4s1}
+  - {type: 'tls:seg', offset: 357, content: '', id: KR3ed042_jc_000-d2.p4s2}
+  - {type: xml-element, offset: 359, content: '', id: KR3ed042_jc_000-d2p4_end, name: p, role: close, attrs: {'xml:id': KR3ed042_jc_000-d2p4}}
+  back: []
+hash: sha256:3c6e877a5a6c1fe5b296d643e3b7d9a4ad03cfb301ea6f6b5a6c10cb0e155519
